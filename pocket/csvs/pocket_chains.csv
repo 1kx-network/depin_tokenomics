@@ -1,0 +1,40 @@
+Name,Portal API Prefix,RelayChainID
+Avalanche,avax-mainnet,3
+Binance Smart Chain,bsc-mainnet,4
+Binance Smart Chain Archival,bsc-archival,10
+Boba,boba-mainnet,48
+DFKchain Subnet,avax-dfk,03DF
+Dogechain,dogechain-mainnet,59
+Ethereum,eth-mainnet,21
+Ethereum Archival,eth-archival,22
+Ethereum Archival Trace,eth-archival-trace,28
+Ethereum Goerli,eth-goerli,26
+Ethereum Kovan,poa-kovan,24
+Ethereum Rinkeby,eth-rinkeby,25
+Ethereum Ropsten,eth-ropsten,23
+Evmos,evmos-mainnet,46
+Fantom,fantom-mainnet,49
+FUSE,fuse-mainnet,5
+FUSE Archival,fuse-archival,000A
+Goerli Archival,goerli-archival,63
+Gnosis Chain,gnosischain-mainnet,27
+Gnosis Chain Archival,gnosischain-archival,000C
+Harmony Shard 0,harmony-0,40
+IoTeX,iotex-mainnet,44
+Klaytn Mainnet,klaytn-mainnet,56
+Meter,meter-mainnet,57
+Metis,metis-mainnet,58
+Moonbeam,moonbeam-mainnet,50
+Moonriver,moonriver-mainnet,51
+NEAR,near-mainnet,52
+OKExChain,oec-mainnet,47
+Optimism,optimism-mainnet,53
+Osmosis Mainnet,osmosis-mainnet,54
+Pocket Network,mainnet,1
+Polygon,poly-mainnet,9
+Polygon Archival,poly-archival,000B
+Polygon Mumbai,polygon-mumbai,000F
+Solana,solana-mainnet,6
+Starknet Mainnet,starknet-mainnet,60
+Starknet Testnet,starknet-testnet,61
+Swimmer Network Mainnet,avax-cra,03CB
