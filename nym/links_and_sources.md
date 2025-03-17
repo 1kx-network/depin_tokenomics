@@ -22,6 +22,7 @@ Data sources:
 
 - https://nymtech.net/nym-whitepaper.pdf
 - https://nymtech.net/docs/architecture/network-overview.html
+- https://nym.com/docs/operators/tokenomics
 - https://blog.nymtech.net/staking-in-nym-introducing-mainnet-mixmining-f9bb1cbc7c36
 - https://cryptoeconomicsystems.pubpub.org/pub/diaz-reward-sharing-mixnets/release/2
 - https://github.com/nymtech/rewardsharing-simulator

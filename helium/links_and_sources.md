@@ -4,7 +4,7 @@ Folder csvs:
 * helium_data_rewards: 
     - rewards data (output from df_net_rewards of helium_rewards notebook  - see also data sources below how to get those easier)
     - dollar-price via coingecko (assumed 0.1$ before data available)
-    - used total maximum supply of 223,000,000 HNT for relative token rewards
+    - used total maximum supply of 223,000,000 HNT for relative token rewards (can adjust for )
     - rewards for service nodes and their validation (not blockchain consensus) based on split of rewards presented in HIP 20 (see 5th item in relevant articles/links)
     - #hotspots as avg/month from https://etl.dewi.org/question/12-total-hotspots
 * hnt-usd-max: price data from coingecko
@@ -19,6 +19,7 @@ Data sources:
 * https://docs.helium.com/oracles/oracle-data/ (presented as alternative to pull data after deprecation of helium api - haven't used it yet though)
 * https://dune.com/helium-foundation/ (data after solana migration available in various dashboards)
 * https://flipsidecrypto.xyz/anduril/helium-network-stats-v-1-b3PLLp (same is true for flipsidycrypto)
+* Node count (pre migration): https://www.reddit.com/r/HeliumNetwork/comments/nhm7ai/helium_total_hotspots_timeseries_data/
 
 
 

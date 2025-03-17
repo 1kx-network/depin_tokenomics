@@ -4,7 +4,7 @@ Folder csvs:
 * fielcoin_data_rewards: 
     - rewards data (output from df_supply_month of filecoin_rewards notebook)
     - $-price via coingecko
-    - used total maximum supply of 2B FIL for relative token rewards
+    - used total maximum supply of 2B FIL for relative token rewards, deducting burnt tokens (see column changed_burnt)
     - breakdown of simple vs baseline minting amount via calculation of simple-minting, using parameters: : b0 (initial baseline) = =2.8888888 ExBi, g_a (annual growth factor) = 1, g= 0.0000006593865873, MB_inf = 330,000,000, MS_inf = 770,000,000 , epochsPerDay = 2880 (1 epoch = 30s), lambda = 0.0000001098977645
 
 Data sources:

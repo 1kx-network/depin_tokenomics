@@ -9,6 +9,8 @@ Folder csvs has
 Data sources:
 - https://cloudmos.io/akash/dashboard
 - https://www.mintscan.io/akash
+- https://stats.akash.network/
+- https://analytics.smartstake.io/akash
 - https://akash.aneka.io/charts
 - https://docs.google.com/spreadsheets/d/1MUULetp59lgNq0z4ckVI51QdtMGvqtKOW8wRfX5R8yY/edit#gid=2130333819 (planned emissions/est. circulating supply and genesis unlocks)
 
